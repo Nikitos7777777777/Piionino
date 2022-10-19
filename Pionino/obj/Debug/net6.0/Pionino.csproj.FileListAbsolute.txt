@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\Pionino.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\Pionino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\Pionino.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\Pionino.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\Pionino.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Pionino\bin\Debug\net6.0\Pionino.exe
+C:\Users\ACER\source\repos\Pionino\bin\Debug\net6.0\Pionino.deps.json
+C:\Users\ACER\source\repos\Pionino\bin\Debug\net6.0\Pionino.runtimeconfig.json
+C:\Users\ACER\source\repos\Pionino\bin\Debug\net6.0\Pionino.dll
+C:\Users\ACER\source\repos\Pionino\bin\Debug\net6.0\Pionino.pdb
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\Pionino.dll
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\refint\Pionino.dll
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\Pionino.pdb
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\Pionino.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Pionino\obj\Debug\net6.0\ref\Pionino.dll
